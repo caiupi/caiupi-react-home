@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://sv-dev.netlify.app/" target="_blank">Caiupi.com</a>
+  <a href="https://caiupi.com/" target="_blank">Caiupi.com</a>
 </h2>
 
 <div align="center">
