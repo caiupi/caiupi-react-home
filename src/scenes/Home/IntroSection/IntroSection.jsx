@@ -2,7 +2,6 @@ import s from './IntroSection.module.scss';
 import avatar from '../../../assets/avatar.svg';
 import { AiFillGithub } from 'react-icons/ai';
 import {
-  FaFacebookSquare,
   FaLinkedinIn,
   FaTwitter,
 } from 'react-icons/fa';
@@ -21,9 +20,9 @@ const IntroSection = () => {
 
           <div className={s.description}>
             <p>
-              I'm a React Native Developer with two years of
+              I'm a backend Software Developer with two years of
               experience <br />
-              creating mobile apps for the iOS, Android, and Web
+              on java and java EE, creating Web apps  Android, and Web
               platforms.
             </p>
 
@@ -31,7 +30,7 @@ const IntroSection = () => {
               My skills include proficiency in{' '}
               <i>
                 <b className={s.purple}>
-                  TypeScript, React, React Native,
+                  Java, Java EE, SQL, 
                 </b>
               </i>
               <br />
