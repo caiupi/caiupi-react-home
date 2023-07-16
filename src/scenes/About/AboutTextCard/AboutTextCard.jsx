@@ -9,9 +9,9 @@ const AboutTextCard = () => {
         <span className={s.purple}>Bajron Ismailaj </span>
         from <span className={s.purple}> Florence, Italy.</span>
         <br />
-        Software engineer with expertise in cross-platform development{' '}
+        Software engineer with expertise in back end {' '}
         <br />
-        using React Native.
+        development using Java Edition Enterprise.
         <br />
         <br />
         I have a Bachelor's degree in Computer Science and
@@ -24,13 +24,13 @@ const AboutTextCard = () => {
 
       <ul>
         <li className={s.aboutActivity}>
-          <ImPointRight /> Playing Games
+          <ImPointRight /> Chess
         </li>
         <li className={s.aboutActivity}>
-          <ImPointRight /> Reading
+          <ImPointRight /> Fitness
         </li>
         <li className={s.aboutActivity}>
-          <ImPointRight /> Travelling
+          <ImPointRight /> Running
         </li>
       </ul>
     </div>
