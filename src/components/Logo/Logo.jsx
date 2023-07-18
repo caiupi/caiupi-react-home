@@ -18,7 +18,7 @@ const Logo = ({ className }) => {
         </svg>
         
       </Link>
-      <div width ="120" >Bajron TECH </div>
+      <div width ="120" >Bajron TECH</div>
     </div>
   );
 };
