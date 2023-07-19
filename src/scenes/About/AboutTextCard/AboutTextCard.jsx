@@ -11,12 +11,10 @@ const AboutTextCard = () => {
         <br />
         Software engineer with expertise in back end {' '}
         <br />
-        development using Java Edition Enterprise.
+        development using Java Edition Enterprise interact with databases.
         <br />
         <br />
-        I have a Bachelor's degree in Computer Science and
-        <br />
-        Master's degree in Project Management from Ternopil Academy.
+        I have a Bachelor's degree in Computer Science. and
         <br />
         <br />
         Apart from coding, some other activities that I love to do!

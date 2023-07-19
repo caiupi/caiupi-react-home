@@ -22,7 +22,7 @@ const IntroSection = () => {
             <p>
               I'm a backend Software Developer with two years of
               experience <br />
-              on java and java EE, creating Web apps  Android, and Web
+              on java and java EE, creating Web apps and Web
               platforms.
             </p>
 
