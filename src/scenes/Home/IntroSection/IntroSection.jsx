@@ -34,8 +34,8 @@ const IntroSection = () => {
                 </b>
               </i>
               <br />
-              and other relevant technologies. I have experience in
-              integrating various <br />
+              and other relevant technologies. I have experience in  Aspose (document processing APIs).<br /> 
+              I have experience in Javascript, React and integrating various <br />
               third-party libraries, API integration, push
               notifications and analytics.
             </p>
