@@ -39,7 +39,7 @@ const Resume = () => {
       <div className={s.content}>
         <div className={s.header}>
           <h1 className={s.title}>
-            My <br /> Resume
+            Resume
           </h1>
 
           <div className={s.filesImg}>
