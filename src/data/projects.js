@@ -1,70 +1,71 @@
 const data = [
   {
     id: '1',
-    title: 'Syntho',
+    title: 'OrderMe',
     description:
-      'Syntho is an electronic music education application. Connect with like minded users as you build your own custom profile, communicate and share music via the newsfeed.',
+      'OrderMe represent a web application based on PHP made with CakePhp that organizes the orders placed by customers in the restaurant.',
     image: {
       src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1671564532/portfolio/projects/Syntho/Screenshot_2022-12-20_at_21.26.17_1_c59hzo.jpg',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://apps.apple.com/us/app/syntho/id1615419392',
+      site: 'https://orderme.caiupi.com/',
+      repo: 'https://github.com/caiupi/orderme/tree/main',
     },
     technologies: [
-      '#typescript',
-      '#react-native',
-      '#react-native-web',
-      '#mobx-state-tree',
-      '#expo',
-      '#i18next',
-      '#react-navigation',
-      '#sentry',
+      '#Php',
+      '#CakePHP',
+      '#MySQL',
+      '#UnitTest',
+      '#PHPUnit',
+      '#LaTeX',
+      '#Code coverage',
+      '#Composer',
     ],
   },
   {
     id: '2',
-    title: 'Minfin - Currency Rates',
+    title: 'Quantitative Analysis',
     description:
-      'Minfin Currency - application with all necessary information about currency: from currency rates - to the nearest places where you can exchange currency in your city.',
+      'Quantitative Analysis -  The project aims to model and evaluate the performances of a railway line.',
     image: {
       src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1671563302/portfolio/projects/minfin/Screenshot_2022-12-20_at_21.06.43_vl5h6k.jpg',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://apps.apple.com/us/app/minfin-currency-rates/id1574863878',
+      site: 'https://github.com/caiupi/QuantitativeAnalysisOfSystem/tree/main',
+      repo: 'https://github.com/caiupi/QuantitativeAnalysisOfSystem/tree/main',
     },
     technologies: [
-      '#typescript',
-      '#react-native',
-      '#mobx-keystone',
-      '#i18next',
-      '#firebase-analytics',
-      '#google-maps',
+      '#Quantitative Analysis',
+      '#Mobius',
+      '#SAN',
+      '#Matlab',
+      '#LaTeX',
     ],
   },
   {
     id: '3',
-    title: 'Outfitr',
+    title: 'Gym database',
     description:
-      'A react native app with animations made with react-native-reanimated. The app is based on the Outfitr - Fashion UI Kit.',
+      'The analysis and implementation of a database are necessary for the management of a gym.',
     image: {
       src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1671562261/portfolio/projects/fashion/Screenshot_2022-12-20_at_20.45.27_peyqly.jpg',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://expo.dev/@v_snaichuk/rn-fashion?serviceType=classic&distribution=expo-go',
-      repo: 'https://github.com/vsnaichuk/fashion-app',
+      site: 'https://github.com/caiupi/sistemi-informativi',
+      repo: 'https://github.com/caiupi/sistemi-informativi',
     },
     technologies: [
-      '#typescript',
-      '#react-native',
-      '#expo',
-      '#react-native-reanimated',
-      '#react-navigation',
+      '#MySQL',
+      '#data analyst',
+      '#E-R',
+      '#SQL trigger',
+      '#view',
     ],
   },
   {
