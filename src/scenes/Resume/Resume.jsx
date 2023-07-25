@@ -11,7 +11,7 @@ import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
 const resumeLink =
-  'https://github.com/caiupi/caiupi-react-home/blob/master/CV%20-%20BAJRON%20ISMAILAJ4.pdf';
+  '../../CV.pdf';
 
 const Resume = () => {
   const pdfWrapper = useRef(null);
