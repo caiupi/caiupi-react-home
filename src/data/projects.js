@@ -68,7 +68,7 @@ const data = [
       '#view',
     ],
   },
-  {
+  /*{
     id: '4',
     title: 'Apiko Marketplace',
     description:
@@ -189,7 +189,7 @@ const data = [
       '#swr',
       '#fakestoreapi',
     ],
-  },
+  },*/
 ];
 
 export default data;
